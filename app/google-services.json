@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553681963345",
+    "firebase_url": "https://quickremainder.firebaseio.com",
+    "project_id": "quickremainder",
+    "storage_bucket": "quickremainder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553681963345:android:dee3581c7153631a",
+        "android_client_info": {
+          "package_name": "com.amtgroup.quickremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553681963345-dcjjer3h5hffpo07num8cq1ru1ck97sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtgroup.quickremainder",
+            "certificate_hash": "BD98D92704AAF62C811AB2688FB677F5D69D3835"
+          }
+        },
+        {
+          "client_id": "553681963345-p4m72r9foeoitthnaj6qlbottbb1np2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dIWts7zIv6WVIAXB-netSmt67bk6lg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553681963345-p4m72r9foeoitthnaj6qlbottbb1np2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
